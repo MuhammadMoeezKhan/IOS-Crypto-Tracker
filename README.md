@@ -1,3 +1,3 @@
 # Crypto-Tracker
 
-#### Deployed a Full-Stack Blog Web App that allows users to add, remove, access, and store their submitted blog posts using MongoDB.
+#### IOS App that displays major cryptocurrency price changes per second in USD dollars and Rupees using CoinGecko Data REST API.
