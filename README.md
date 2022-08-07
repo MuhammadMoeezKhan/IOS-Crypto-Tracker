@@ -7,7 +7,7 @@ I created an IOS Applicaiton that displays major cryptocurrency price changes pe
 To change what currencies to convert crypto prices in can be done using 2-3 code statements!
 
 ### Gif#1: Convert Crypto Currency Values into USD and PKR
-#### Reading ...
+##### Used GoinGecko's API to fetch updated data from JSON object containing the Rupee Currency. App fetches data (updates) every second.
 <p align="center">
   <img src="http://g.recordit.co/Vpw6o6F4to.gif" alt="animated" />
 </p>
@@ -16,7 +16,7 @@ To change what currencies to convert crypto prices in can be done using 2-3 code
 <br>
 
 ### Gif#2: Convert Cyrpto Currency Values into USD and CAD
-#### Reading ...
+##### Fetched updated data using CAD JSON Object from API
 <p align="center">
   <img src="http://g.recordit.co/dsTfVDo5AN.gif" alt="animated" />
 </p>
