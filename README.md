@@ -4,7 +4,7 @@ Love investing and delving into the world of cryptocurrencies? This app is for y
 
 I created an IOS application that displays major cryptocurrency price changes per second in USD dollars, Rupees, or Canadian dollars using CoinGecko Data REST API.
 
-To change what currencies to convert crypto prices it can be done using 2-3 code statements!
+To change and update your choice of currencies to convert crypto prices it can be done using 2-3 code statements!
 
 ### Gif#1: Convert Crypto Currency Values into USD and PKR
 ##### Used GoinGecko's API to fetch updated data from JSON object containing the Rupee Currency. The app fetches data (updates) every second.
