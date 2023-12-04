@@ -59,7 +59,7 @@ class ViewController: UIViewController {
             //calls created functions accordingly to update main storybaord appropriately
             fetchData()
             
-            //updates the view and fetches new data from API JSON Objects every 5 seconds
+            //updates the view and fetches new data from API JSON Objects every second
             _ = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(refreshData), userInfo: nil, repeats: true)
         }
         
